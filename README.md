@@ -28,7 +28,11 @@ A basic password manager built with Python using Tkinter for the UI and SQLite f
 
 ## 📁 Folder Structure
 
-<pre>``` password-manager/ ├── main.py ├── assets/ │ └── copy_icon.png ├── .gitignore ├── README.md ``` </pre>
+<pre>``` password-manager/ 
+├── main.py ├── assets/ 
+│ └── copy_icon.png 
+├── .gitignore 
+├── README.md ``` </pre>
 
 
 ---
